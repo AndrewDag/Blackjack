@@ -1,0 +1,17 @@
+0. Dealer bust
+1. Dealer blackjack
+2. Dealer higher hand value (no split)
+3. Dealer and player equal (no split)
+4. Dealer has higher hand value than first hand
+5. Dealer has higher hand value than second hand
+6. Dealer has higher hand value than both hands
+7. Dealer equal to first hand
+8. Dealer equal to second hand
+9. Dealer equal to both hands
+10. Both the player and dealer have blackjack (no split)
+11. Player blackjack
+12. Player bust
+13. Player has blackjack in one of their hands while the dealer also has blackjack
+15. Player blackjack in hand 1
+16. Player blackjack in hand 2
+18. Both hands bust
